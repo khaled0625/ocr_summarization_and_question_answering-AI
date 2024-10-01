@@ -11,24 +11,12 @@ This project is an advanced system that performs Optical Character Recognition (
 
 ## Table of Contents
 
-- [Usage](#usage)
+
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Usage
 
-Once everything is set up, you can launch the Gradio interface:
-
-1. **Run the script**:
-
-    ```bash
-    python your_script_name.py
-    ```
-
-2. **Using the Gradio interface**:
-    - **Summarization Tab**: Upload an image and input text for OCR processing and summarization.
-    - **QA Tab**: Upload an image and ask a question in either English or Arabic for the system to extract text via OCR and answer the question based on the extracted content.
 
 ## Key Code Components
 
