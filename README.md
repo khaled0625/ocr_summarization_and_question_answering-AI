@@ -1,3 +1,5 @@
+md
+
 # OCR, Summarization, and QA System with Multilingual Support
 
 This project is an advanced system that performs Optical Character Recognition (OCR) on images and provides summarization, question-answering (QA), and translation functionalities. It supports both English and Arabic languages and allows users to upload images for OCR processing combined with text for further operations.
@@ -77,7 +79,7 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-go
+csharp
 
 
-You can now copy and paste the entire content directly into your `README.md` file.
+You can now copy this entire code and paste it into your `README.md` file on GitHub
