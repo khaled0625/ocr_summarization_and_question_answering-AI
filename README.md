@@ -72,7 +72,7 @@ Translates text from English to Arabic using Helsinki-NLP/opus-mt-en-ar:
 
 pipe_to_arabic = pipeline("translation", model="Helsinki-NLP/opus-mt-en-ar")
 ```
-##Contributing
+## Contributing
 
 Contributions are welcome! Please submit pull requests or report issues in the GitHub repository.
 License
